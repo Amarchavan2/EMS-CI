@@ -1,0 +1,14 @@
+
+Database Name: employeeigniter
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 622004
+
+**Employee Login Details**
+
+Email	: amar@gmail.com
+Password: 7304362512
